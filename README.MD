@@ -1,4 +1,4 @@
-## Algunas porciones de código que he buscado por algunos foros.
+## Algunas porciones de código que he buscado por algunos foros y por internet
 
 ### replaceAll para el ejercicio de sustituir por las vocales.
 
